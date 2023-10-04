@@ -4,17 +4,17 @@ layout: picture_left
 ---
 
 _**Email address**_<br>
-uvilla at oden dot utexas dot edu
+arya dot chavoshi at dot utexas dot edu
 
 _**Office**_<br>
-POB 4.252
+JSG 5.112
 
 _**Phone**_<br>
-512 232-3453
+512 701-0310
 
 _**Mailing address**_<br>
-Oden Institute for Computational Engineering and Sciences
+Department of Civil, Architectural, and Environmental Engineering
 
 The University of Texas at Austin
-201 E. 24th Street | Mail code: C0200 
-Austin, Texas 78712-1229
+201 E. 24th Street
+Austin, Texas 
