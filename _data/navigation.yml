@@ -3,24 +3,9 @@ docs:
 
 - title: Home
   url: index.html
-
-- title: Research
-  url: research.html
-
-- title: Publications
-  url: publications.html
-
-- title: Software
-  url: software.html
-  
-- title: Available Projects
-  url: available_projects.html
-  
-- title: Teaching
-  url: teaching.html
-  
-- title: Mentoring
-  url: mentoring.html
-
+- title: LinkedIn
+  url: https://www.linkedin.com/in/arya-chavoshi-6923581a5/
+- title: Google Scholar
+  url: https://scholar.google.com/citations?hl=en&user=EtXHdUcAAAAJ 
 - title: Contact
   url: contact.html
