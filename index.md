@@ -8,7 +8,7 @@ layout: default
     <img src="images/image.jpeg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> <b>Umberto Villa, PhD</b> <br> <em>Research Scientist</em> </p>
+<p> <b>Arya Chavoshi, </b> <br> <em>Graduate Research Assistant</em> </p>
 <p> <a href="https://oden.utexas.edu" target="blank">Oden Institute for Computational Engineering and Sciences</a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
 <p> <a href="files/UmbertoVilla_cv.pdf">Curriculum vitae </a> </p>
